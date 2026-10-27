@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My AI Literacy Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to My AI Literacy Website</h1>
+    <p>This website was deployed using GitHub and Vercel.</p>
+</body>
+</html>
